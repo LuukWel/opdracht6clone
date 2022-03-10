@@ -30,6 +30,8 @@ public class Game {
         }
     }
 
+
+
     public String toString(){
         return naam + ", uitgegeven in " + releaseJaar + "; nieuwprijs: " + nieuwPrijs + " nu voor: " + huidigeWaarde() + "\n";
     }
